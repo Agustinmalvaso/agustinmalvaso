@@ -1,4 +1,4 @@
-# Hello there! I'm Agustín 👋
+# 👋 Hello there! I'm Agustín 
 
 ⚡ Full Stack Developer
 
@@ -6,7 +6,7 @@
 
 
 
-## About Me 🤖
+## 🤖 About Me 
 
 - From Buenos Aires, Argentina 🇦🇷📍  
 - Enthusiastic about developing efficient, maintainable, and user-friendly software ⚙️  
