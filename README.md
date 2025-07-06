@@ -37,7 +37,6 @@
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
 
 
 ## 🚀 Projects
